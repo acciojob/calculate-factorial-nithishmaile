@@ -9,6 +9,6 @@ function fact(n){
 }
 
 
-console.log(alert(`The factorial of [number] is ${fact(userInput)}.`))
+console.log(alert(`The factorial of ${userInput} is ${fact(userInput)}.`))
 
 
